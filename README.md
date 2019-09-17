@@ -14,15 +14,15 @@ The pictures above show the two main screens of the app. On the left, is the hom
 ### Map App
 _by Saman Merchant and Farhan Rahman_
 
-<img src="assets/Map/HomeScreen.png" width="150" height="325" />   <img src="assets/Map/Geocode.png" width="150" height="325" />
+<img src="assets/Map/HomeScreen.png" width="175" height="325" />   <img src="assets/Map/Geocode.png" width="175" height="325" />
 
 Our app uses the Google Map API and Geocode API to retrieve the latitude, longitude, and ZIP of a given address or location. Upon successfully getting a location we can then view it from a Map view and look at the surroundings. 
 
-<img src="assets/Map/Map1.png" width="150" height="325" />   <img src="assets/Map/Map2.png" width="150" height="325" /> <img src="assets/Map/Map3.png" width="150" height="325" />   
+<img src="assets/Map/Map1.png" width="175" height="325" />   <img src="assets/Map/Map2.png" width="175" height="325" /> <img src="assets/Map/Map3.png" width="175" height="325" />   
 
 The Google API provides multiple themes that the map can be shown with. We added a floating button on the top right to iterate through a couple of the options so that you can pick a theme of your taste. There is also another button on the top left that takes you to a street view of the address you put in. 
 
-<img src="assets/Map/StreetView.png" width="150" height="325" />   
+<img src="assets/Map/StreetView.png" width="175" height="325" />   
 Normally you would see the street of an address that you put, however, since I searched an iconic location I am seeing a spherical view from the eiffel tower.
 
 
